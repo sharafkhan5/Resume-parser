@@ -94,7 +94,7 @@ Tech Innovators,Software Engineer,$60,000-$80,000,Python, Java, Leadership
 ## 🧑‍💻 Author
 
 Mohammed Sharaf Khan  
-🔗 [LinkedIn]((https://www.linkedin.com/in/mohammed-sharaf-khan-b5443521b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  
+🔗 [LinkedIn]
 🔗 [GitHub](https://github.com/HusainFarhan)
 
 ---
