@@ -6,15 +6,15 @@ A powerful **Tkinter-based desktop app** that parses resumes either manually or 
 
 ## 🔍 Features
 
-- 📝 Manual Resume Form OR 📄 PDF Resume Parser
-- 📊 Company Matching System based on skill relevance
-- 🌑 Light/Dark Theme Toggle
-- 📥 CSV Import for Company Data
-- 📌 Tips for Resume Improvement
-- ✅ Skill Matching Score
-- 🔐 Masked Phone Numbers for Privacy
-- 📚 PDF Text Extraction with `pdfplumber`
-- 💡 User-Friendly GUI using Tkinter
+- 📝 Manual Resume Form OR 📄 PDF Resume Parser  
+- 📊 Company Matching System based on skill relevance  
+- 🌑 Light/Dark Theme Toggle  
+- 📥 CSV Import for Company Data  
+- 📌 Tips for Resume Improvement  
+- ✅ Skill Matching Score  
+- 🔐 Masked Phone Numbers for Privacy  
+- 📚 PDF Text Extraction with `pdfplumber`  
+- 💡 User-Friendly GUI using Tkinter  
 
 ---
 
@@ -30,9 +30,9 @@ A powerful **Tkinter-based desktop app** that parses resumes either manually or 
 
 ### 🔧 Requirements
 
-- Python 3.7+
-- `pdfplumber`
-- `pandas`
+- Python 3.7+  
+- `pdfplumber`  
+- `pandas`  
 - `tkinter` (comes with Python)
 
 Install required packages:
@@ -55,12 +55,13 @@ python miniproject.py
 
 To import your own company dataset, prepare a CSV with the following columns:
 
-- Company Name
-- Designation
-- Salary Range
-- Skills (comma-separated)
+- Company Name  
+- Designation  
+- Salary Range  
+- Skills (comma-separated)  
 
-Example:
+**Example:**
+
 ```csv
 Company Name,Designation,Salary Range,Skills
 Tech Innovators,Software Engineer,$60,000-$80,000,Python, Java, Leadership
@@ -70,32 +71,32 @@ Tech Innovators,Software Engineer,$60,000-$80,000,Python, Java, Leadership
 
 ## 🎯 How Matching Works
 
-- Uses approximate string matching (`difflib`) to compare skills.
-- Computes a matching score out of 100.
-- If score > 60%, full salary is shown; else "Ask HR".
+- Uses approximate string matching (`difflib`) to compare skills.  
+- Computes a matching score out of 100.  
+- If score > 60%, full salary is shown; else "Ask HR".  
 
 ---
 
 ## 💡 Resume Tips Engine
 
-- Suggests adding skills or certifications if few/missing.
-- Gives a basic resume quality verdict.
+- Suggests adding skills or certifications if few/missing.  
+- Gives a basic resume quality verdict.  
 
 ---
 
 ## ✨ Highlights
 
-- Clean UI with Tkinter + ttk themes
-- PDF parsing with `pdfplumber`
-- Smart company matching logic
+- Clean UI with Tkinter + ttk themes  
+- PDF parsing with `pdfplumber`  
+- Smart company matching logic  
 
 ---
 
 ## 🧑‍💻 Author
 
-Mohammed Sharaf Khan  
-🔗 [LinkedIn]
-🔗 [GitHub](https://github.com/HusainFarhan)
+**Mohammed Sharaf Khan**  
+🔗 [LinkedIn](https://www.linkedin.com/in/mohammed-sharaf-khan-b5443521b/)  
+🔗 [GitHub](https://github.com/sharafkhan5)  
 
 ---
 
